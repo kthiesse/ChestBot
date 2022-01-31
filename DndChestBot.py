@@ -8,6 +8,7 @@ intents = discord.Intents(messages = True, guilds = True, reactions = True, memb
                           , presences = True)
 client = commands.Bot(command_prefix = '_', intents = intents) 
 
+#include your bot token here
 botToken = 
 
 
